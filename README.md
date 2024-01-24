@@ -1,2 +1,2 @@
 # hello-world
-My First Sketch
+My First Sketch. Yein Ryu, a freshman at SLU. 

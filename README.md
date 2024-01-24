@@ -1,2 +1,2 @@
 # hello-world
-My Firsth Sketch
+My First Sketch
